@@ -34,7 +34,7 @@ desktop-grande: de 1900px
     }
     
     .projeto{
-        width: 550px;
+        width: 600px;
     }
 }
 
@@ -57,9 +57,5 @@ desktop-grande: de 1900px
     
     div#redes-sociais{
         padding-left: 100px;
-    }
-    
-    .projeto{
-        width: 725px;
     }
 }

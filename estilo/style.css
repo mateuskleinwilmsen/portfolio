@@ -145,6 +145,7 @@ div#projetos h2{
     display: flex;
     flex-direction: row;
     justify-content: stretch;
+    width: 725px;
     height: 300px;
     margin: auto;
     border-radius: 32px;
