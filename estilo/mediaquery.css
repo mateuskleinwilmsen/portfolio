@@ -65,7 +65,7 @@ desktop-grande: de 1900px
         width: 100%;
     }
 
-    .informacoes-projeto > h1{
+    .informacoes-projeto > h3{
         font-size: 1.3em;
         margin-top: 8px;
     }
