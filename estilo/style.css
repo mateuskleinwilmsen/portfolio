@@ -29,6 +29,7 @@ header{
 }
 
 header h1{
+    pointer-events: none;
     font-size: 1.2em;
 }
 
