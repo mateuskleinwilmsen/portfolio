@@ -29,12 +29,10 @@ header{
 }
 
 header h1{
-    margin-left: 32px;
     font-size: 1.2em;
 }
 
 header > nav > ul{
-    margin-right: 32px;
     display: flex;
 }
 
@@ -59,6 +57,7 @@ header a:hover{
 
 div#apresentacao{
     height: 532px;
+    width: 100%;
     background-color: var(--cor-padrao);
     background-image: linear-gradient(160deg, lightgray, rgba(173, 216, 230, 0.7) 90%);
     /*border-bottom: 1px solid black;*/
@@ -145,7 +144,6 @@ div#projetos h2{
     display: flex;
     flex-direction: row;
     justify-content: stretch;
-    width: 725px;
     height: 300px;
     margin: auto;
     border-radius: 32px;
