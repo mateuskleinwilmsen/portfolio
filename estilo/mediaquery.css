@@ -57,7 +57,7 @@ desktop-grande: de 1900px
 
     .projeto{
         width: 80%;
-        height: 500px;
+        height: 400px;
         flex-direction: column;
     }
 
