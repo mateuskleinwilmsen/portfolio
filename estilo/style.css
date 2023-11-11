@@ -159,6 +159,7 @@ div#projetos h2{
 
 .informacoes-projeto{
     width: 40%;
+    z-index: -1;
 }
 
 .informacoes-projeto > h3{
