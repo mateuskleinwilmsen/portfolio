@@ -186,6 +186,7 @@ div#projetos h2{
     height: 20%;
     margin: auto;
     z-index: -1;
+    position: relative;
 }
 
 .tecnologias-projeto > img{
