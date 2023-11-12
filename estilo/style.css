@@ -133,7 +133,6 @@ div#projetos h2{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
 }
 
 .projeto{
