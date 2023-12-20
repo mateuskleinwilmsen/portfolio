@@ -1,0 +1,20 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'roboto', sans-serif;
+    --cor-padrao: lightgray;
+    --cor-github: black;
+    --cor-linkedin: rgb(1, 150, 188);
+    --cor-primaria-texto: #222;
+    --cor-secundaria-texto: #555;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
