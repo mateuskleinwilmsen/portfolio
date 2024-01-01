@@ -46,7 +46,7 @@ header a:hover{
 }
 
 @media (max-width: 500px) {
-    .header{
+    .header > div{
         justify-content: center;
     }
 } 
