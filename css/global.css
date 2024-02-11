@@ -16,5 +16,25 @@ html{
 
 .container{
     max-width: 1200px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    padding: 0px 20px;
+}
+
+img{
+    width: 100%;
+}
+
+.icon{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+
+@media (max-width: 900px) {
+    .icon{
+        width: 32px;
+        height: 32px;
+    }
 }

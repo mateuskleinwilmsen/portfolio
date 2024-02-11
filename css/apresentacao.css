@@ -26,6 +26,8 @@
 #redes-sociais{
     padding-left: 100px;
     padding-bottom: 50px;
+    display: flex;
+    gap: 12px;
 }
 
 #redes-sociais a{
@@ -33,12 +35,12 @@
     width: 40px;
     height: 40px;
     display: inline-block;
-    overflow: hidden;
 }
 
 #redes-sociais > a > img{
     width: 40px;
     height: 40px;
+    border-radius: 50%;
 }
 
 @media (max-width:900px) {
